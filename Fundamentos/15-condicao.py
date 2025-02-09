@@ -18,3 +18,9 @@ else:
 
 
 print(f"O resultado da operação é {result}")
+
+
+number = 0
+
+if number > 5:
+    print("Sou lindo!")

@@ -23,3 +23,4 @@ def calculate_average():
 
 
 print(f"A média das notas foi {calculate_average()}")
+
